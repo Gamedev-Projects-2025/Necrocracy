@@ -1,28 +1,16 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# Necrocracy
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+**Death is on the ballot! Vote to kill!**
 
 ## מהות המשחק
-
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
-
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
-
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+To ensure the colony's continued survival, citizens hold an annual vote to choose a sacrifice for the master computer so that it won't destroy the colony. Your reputation is the key to your survival. Build up your reputation by any means necessary to ensure that you won't be the next sacrifice. Survive to be the last one standing.
 
 ---
 
 
 ## רכיבים רשמיים
-
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
-
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
 ### 1. שחקנים
 
