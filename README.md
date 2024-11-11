@@ -1,96 +1,91 @@
-<div dir='rtl' lang='he'>
-
 # Necrocracy
 
 **Death is on the ballot! Vote to kill!**
 
-## מהות המשחק
-To ensure the colony's continued survival, citizens hold an annual vote to choose a sacrifice for the master computer so that it won't destroy the colony. Your reputation is the key to your survival. Build up your reputation by any means necessary to ensure that you won't be the next sacrifice. Survive to be the last one standing.
+---
+
+## Game Overview
+
+In order to ensure the colony’s survival, citizens are required to hold a monthly vote to select a sacrifice for the master computer, which allegedly will destroy the colony if a sacrifice isn’t made. Your survival depends on your reputation. Build and maintain it by any means necessary to avoid being the next one sacrificed. Only one will survive. Will it be you?
 
 ---
 
+## Game Components
 
-## רכיבים רשמיים
+### 1. Target Audience
 
-### 1. שחקנים
+* **Audience**: The game is designed for teenagers and older players interested in strategy and psychology-based gameplay.
+* **Single-player experience**: The player competes against a group of NPCs, managing their reputation and influence to ensure survival.
 
-* The game is meant for teenagers and over who have an intrest in strategy and psychology games. 
-* This is a singleplayer game.
-* The player has to compete for his reputation against the other NPCs in order to survive.
+### 2. Objectives
 
-### 2. יעדים
+* **Primary Goal**: Maintain a high reputation among the colony members to avoid being chosen as the sacrifice. Employ any means necessary to influence the votes and ensure you’re not elected.
+* **Tutorial Round**: The game starts with a mock election where the player is introduced to the game mechanics. During this round, the player’s chosen "victim" will always be sacrificed, setting the tone for the stakes of each vote.
 
-* The player must maintain his reputation in order to not be elected as sucrifice by any means necessery.
-* A mock election will be held in the opening round to familirize the player with the game mechanics. 
+### 3. Core Gameplay Mechanics
 
+The gameplay cycle alternates between **Voting Segments** and **Reputation Building Segments**:
 
-### 3. תהליכים
+* **Voting Segments**: These are tense rounds where the player and NPCs cast their votes to decide who will be sacrificed. The NPC with the lowest reputation is generally the one sacrificed.
+* **Reputation Building Segments**: Between voting rounds, the player can take actions to build their reputation, influencing other NPCs’ perceptions. Actions include:
+  - **Rumor Spreading**: Create or dispel rumors to influence other NPCs’ reputations.
+  - **Bar Visits**: Visit the bar to socialize and gain reputation. However, repeated use can lead to reputation decay as other NPCs grow suspicious.
+  - **Other Strategic Activities**: Engage in various activities in different areas of the bunker that may increase or decrease reputation. For example, helping in the lounge may boost reputation, while rumors may cause it to decline.
 
-תארו בפירוט את:
+The goal is to outlast all other NPCs, ensuring that you are never elected as the sacrifice and eventually become the last one standing.
 
-* The game will start with a mock election where the player's chosen victim will always win the election and be brutally executed in front of everyone (shock value)
-*	The game consists of voting segmenets where the player and the NPCs cast their votes and reputation building segements where a player and other NPCs try to maintain their reputation via different actions. For example, a player may walk into a bar and have a 50/50 chance to increase or decrease their reputation or they may spread a rumor about a different NPC to ruin their reputation.
-* The player must lose all the elections and be the last one standing. In the event that only two citizens remain, the player will always come out on top.
-* 
-### 4. חוקים
+### 4. Game Rules
 
-* Each citizen holds a vector of numbers coresponding to other citizens. Each number repersents their relationship with other citizens. The lower the number the more likely they are to vote to sucrifice them.
-* The player is free to maintain his reputation by any means neceserry with the risk of ruining it and thus being elected.
-* The citizen with the lowest reputation overall will always be succrificed.
-* The player will learn all the game rules on the first round.
+* **Reputation System**: Each citizen has a reputation score that affects how likely they are to be voted for. This score is influenced by interactions, alliances, and rumors.
+* **Voting Mechanics**: Each citizen has a vector that tracks their relationship scores with others. Citizens are more likely to vote against those with whom they have the lowest scores.
+* **Player Freedom**: The player has full freedom to manipulate, negotiate, and strategize to maintain their reputation—though each action carries risk.
+* **Elimination Rule**: The citizen with the lowest reputation at the end of each voting round is sacrificed.
+* **Tutorial**: Players learn the game rules and key mechanics during the initial round, easing them into the strategies they’ll need to survive.
 
+### 5. Resources
 
-### 5. משאבים
+* **Reputation**: This is the primary resource, acting as a measure of social standing. Higher reputation decreases the likelihood of being voted out.
+* **Reputation Management**: Reputation can be gained through various social actions and activities in the bunker, some of which are RNG-based while others rely on strategy.
+* **Time-Limited Areas**: Certain areas, such as the bar, may only be accessible at specific times, and some have a capacity limit, forcing players to prioritize their activities carefully.
+* **Election Forecast Program**: A tool that allows the player to analyze their survival chances based on current relationships and reputation stats.
 
-* Reputation is your key to survival. The higher it gets, the more likely you are to live to fight another day.
-* The highter your reputation the lower your chances to be elected.
-* The main way to gain reputation is through the various area in the lounge. Some areas may be RNG based while others require tactics and strategy.
-* Certin ways to gain reputation may have a time limit. For example, the bar can only be accessed from 10am to 10pm and have a capacity of 5 citizens.
-* The player may acess an election forcast program to analyise his liklyhood to survive
+### 6. Conflicts
 
-### 6. עימותים
+**Key Conflicts**:
 
-מה יהיו העימותים המרכזיים במשחק:
+1. **Player vs. System**: Players must navigate obstacles and timed activities, competing for reputation boosts and strategic advantages.
+2. **Moral Dilemmas**: Sacrificing other NPCs presents moral questions, as does the decision to sabotage or help others. Additionally, actions to increase reputation often come with the risk of backfiring, forcing players to make careful choices.
 
-* בין השחקן למערכת (מכשולים),
-* Some activities may be timed or have a cap on the number of participants, forcing the player to compete against the other NPCs.
-* Aside from the moral delema of condeming someone to death by voting for them, there are risks to participating in the different activities that can alter your reputation negativly or positively.   
+### 7. Setting and Map Design
 
+* **Map Boundaries**: The player is confined to a bunker, which is structured with a variety of accessible areas, with certain sections unlocking as the game progresses.
+* **Atmosphere**: The bunker is a bleak, concrete space with metal panels, evoking a sense of claustrophobia and isolation.
+* **Level Design Principles**:
+  - **Meaning**: Each room serves a purpose, offering a unique way to interact and affect reputation.
+  - **Mobility**: Clear paths allow for quick movement between rooms and areas.
+  - **Orientation**: Each section has distinct characteristics, making it easy for the player to navigate.
+  - **Interest**: Every area offers a different gameplay mechanic, adding variety and depth.
+  - **Guidance**: Visual cues guide the player to new areas as they unlock, gradually revealing the full scope of the bunker.
 
-### 7. גבולות
+### 8. Outcomes
 
-* The player is trapped in a colony but he is free to explore most parts of it with certin parts being unlocked after the death of certin NPCs.
-* A flat world with flat dreams of survival. 
-* Great gray concrete walls and metal panels box in the player creating a sense of unease and claustrophobia.
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
+* **Possible Endings**:
+  - **Sacrifice Ending**: The player fails to maintain their reputation and becomes the next sacrifice.
+  - **Survival Ending**: The player successfully outlasts all others, emerging as the last citizen standing.
+  - **Rebellion Ending**: The player gathers enough evidence to prove the sacrifices are unnecessary, convincing the remaining citizens to abandon the ritual.
 
-
-### 8. תוצאות
-
-* Possible endings:
-1) The player wins the elections and gets sucrificed.
-2) The players loses all the elections and is left as the last one standing.
-3) The player convinces everyone to note vote by showing evidence that the whole thing is just a social experiment.
-* Reputation can be either gained though luck or tactics.
-* The game would be complicated because every citizen may gain or lose reputation and they may subotage each other.
+* **Reputation System**: Reputation fluctuates based on player actions, allowing players to employ either luck or strategy to stay alive. NPCs can also sabotage each other, adding complexity to social dynamics.
 
 ---
 
-## סקר שוק
+## Market Analysis
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+**Comparison with Similar Games**:
+1. **Among Us** - [Steam Link](https://store.steampowered.com/app/945360/Among_Us/): This multiplayer game involves players voting out an imposter, with suspicion and reputation management as core mechanics.
+2. **Werewolf Party** - [Steam Link](https://store.steampowered.com/app/2920510/Werewolf_Party/): Similar voting mechanics to find the “werewolf” among villagers.
+3. **Werewolf/Mafia** - [How to Play Guide](https://www.wikihow.com/Play-Mafia): Social deduction and voting games where players eliminate a hidden threat through voting.
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+**Unique Elements in Necrocracy**:
+While the above games focus on two competing teams, *Necrocracy* introduces a unique twist where it’s every citizen for themselves. Instead of uncovering a hidden threat, the player’s goal is personal survival through social strategy. The single-player setup adds a narrative-driven psychological angle, where the player must manipulate NPCs, navigate relationships, and manage the isolation of the bunker setting.
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-Among us https://store.steampowered.com/app/945360/Among_Us/
-Werewolf Party https://store.steampowered.com/app/2920510/Werewolf_Party/
-Werewolf/Mafia https://www.wikihow.com/Play-Mafia
-The common denomenators of these games are the voting mechanics and the pressence of a two teams competing against each other (Villiageers and werewolfs for example). The difference with our game is that it's everyone for themselves. 
-
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
-
-
-</div>
+---
