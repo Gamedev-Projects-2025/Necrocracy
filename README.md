@@ -14,67 +14,66 @@ To ensure the colony's continued survival, citizens hold an annual vote to choos
 
 ### 1. שחקנים
 
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
+* The game is meant for teenagers and over who have an intrest in strategy and psychology games. 
+* This is a singleplayer game.
+* The player has to compete for his reputation against the other NPCs in order to survive.
 
 ### 2. יעדים
 
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
+* The player must maintain his reputation in order to not be elected as sucrifice by any means necessery.
+* A mock election will be held in the opening round to familirize the player with the game mechanics. 
 
 
 ### 3. תהליכים
 
 תארו בפירוט את:
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
-
-איך השחקן ילמד על התהליכים? 
-
+* The game will start with a mock election where the player's chosen victim will always win the election and be brutally executed in front of everyone (shock value)
+*	The game consists of voting segmenets where the player and the NPCs cast their votes and reputation building segements where a player and other NPCs try to maintain their reputation via different actions. For example, a player may walk into a bar and have a 50/50 chance to increase or decrease their reputation or they may spread a rumor about a different NPC to ruin their reputation.
+* The player must lose all the elections and be the last one standing. In the event that only two citizens remain, the player will always come out on top.
+* 
 ### 4. חוקים
 
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+* Each citizen holds a vector of numbers coresponding to other citizens. Each number repersents their relationship with other citizens. The lower the number the more likely they are to vote to sucrifice them.
+* The player is free to maintain his reputation by any means neceserry with the risk of ruining it and thus being elected.
+* The citizen with the lowest reputation overall will always be succrificed.
+* The player will learn all the game rules on the first round.
 
 
 ### 5. משאבים
 
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+* Reputation is your key to survival. The higher it gets, the more likely you are to live to fight another day.
+* The highter your reputation the lower your chances to be elected.
+* The main way to gain reputation is through the various area in the lounge. Some areas may be RNG based while others require tactics and strategy.
+* Certin ways to gain reputation may have a time limit. For example, the bar can only be accessed from 10am to 10pm and have a capacity of 5 citizens.
+* The player may acess an election forcast program to analyise his liklyhood to survive
 
 ### 6. עימותים
 
 מה יהיו העימותים המרכזיים במשחק:
 
 * בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+* Some activities may be timed or have a cap on the number of participants, forcing the player to compete against the other NPCs.
+* Aside from the moral delema of condeming someone to death by voting for them, there are risks to participating in the different activities that can alter your reputation negativly or positively.   
 
 
 ### 7. גבולות
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
-
- איך המשחק יראה לשחקן את הגבולות? 
+* The player is trapped in a colony but he is free to explore most parts of it with certin parts being unlocked after the death of certin NPCs.
+* A flat world with flat dreams of survival. 
+* Great gray concrete walls and metal panels box in the player creating a sense of unease and claustrophobia.
  
  הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
 
 
 ### 8. תוצאות
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+* Possible endings:
+1) The player wins the elections and gets sucrificed.
+2) The players loses all the elections and is left as the last one standing.
+3) The player convinces everyone to note vote by showing evidence that the whole thing is just a social experiment.
+* Reputation can be either gained though luck or tactics.
+* The game would be complicated because every citizen may gain or lose reputation and they may subotage each other.
 
 ---
 
@@ -85,9 +84,10 @@ To ensure the colony's continued survival, citizens hold an annual vote to choos
 חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
 
 זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
+Among us https://store.steampowered.com/app/945360/Among_Us/
+Werewolf Party https://store.steampowered.com/app/2920510/Werewolf_Party/
+Werewolf/Mafia https://www.wikihow.com/Play-Mafia
+The common denomenators of these games are the voting mechanics and the pressence of a two teams competing against each other (Villiageers and werewolfs for example). The difference with our game is that it's everyone for themselves. 
 
 מבין הרכיבים הרשמיים, 
 איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
