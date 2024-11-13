@@ -10,4 +10,3 @@ In order to ensure the colony’s survival, citizens are required to hold a mont
 
 ---
 [formal-elements](https://github.com/Gamedev-Projects-2025/Necrocracy/blob/main/formal-elements.md)
----
